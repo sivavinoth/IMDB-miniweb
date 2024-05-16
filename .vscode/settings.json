@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "files.exclude": {
+        "**/.idx": true,
+        "**/.vscode": true
+    },
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
+}
